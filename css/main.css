@@ -38,7 +38,7 @@ header{
     display: block;
     background-size: cover;
     background-position: center center;
-    background-image: url(/images/hero-bg-lux.png);
+    background-image: url(./images/hero-bg-lux.png);
 }
 
 .login-wrapper{
@@ -96,7 +96,7 @@ header{
 }
 
 .wrapper{
-    background-image: url(/images/blue-bg.webp);
+    background-image: url(./images/blue-bg.webp);
     margin: 0;
     background-repeat: no-repeat;
     background-size: contain;
@@ -244,7 +244,7 @@ select{
 }
 
 .instruction{
-    background-image: url(/images/how-to-buy-bg.webp);
+    background-image: url(./images/how-to-buy-bg.webp);
     font-size: 20px;
     background-size: cover;
     padding: 40px 0;
